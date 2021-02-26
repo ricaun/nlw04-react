@@ -22,6 +22,18 @@ yarn create next-app projectName
 yarn add typescript @types/react @types/react-dom @types/node -D
 ```
 
+## Cookies
+
+### Install
+```bash
+yarn add js-cookie
+```
+
+### Install TypeScript
+```bash
+yarn add @types/js-cookie -D
+```
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
