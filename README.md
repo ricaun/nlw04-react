@@ -1,5 +1,13 @@
 # nlw04-react
 
+## Layout
+
+To see layout created by **Rocketseat** team, click on badge below:
+
+<a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" src="https://shields.io/badge/figma-red"/></a>
+<a href="https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8" target="_blank"><img alt="Figma" src="https://shields.io/badge/notion-white"/></a>
+
+
 ## Getting Started
 
 First, run the development server:
